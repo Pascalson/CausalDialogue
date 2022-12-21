@@ -1,0 +1,8 @@
+anytree==2.8.0
+tqdm==4.49.0
+graphviz==0.19.1
+sentence-transformers==2.1.0
+transformers==4.15.0
+torch>=1.7.1
+pytorch-ignite==0.4.7
+tokenizers==0.10.3
