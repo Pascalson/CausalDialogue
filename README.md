@@ -5,9 +5,9 @@ We have included the license documents in this repository.
 If you find the code or data is useful for your research, please kindly cite the paper.
 
 ## Setup
-* clone this repository
-* (recommend) create a conda environment
-* install packages via conda and pip install
+* clone this repository, you might also need to refer to [Git LFS](https://git-lfs.com/) in order to download the data.
+* (recommend) create a conda environment.
+* install packages via conda and pip install.
 ```
 $conda install graphviz
 $pip install -r requirements.txt
